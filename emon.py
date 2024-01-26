@@ -189,7 +189,7 @@ def banner():
 ║\33[0;41m        [ WORKING ONLY MOBILE DATA ]         \033[0;92m║
 ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝
 \033[0;94m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗\033[1;33m 
-╠══[Author                   • \33[1;38mMR-TUTUL ]\33[1;38m     ║\033[1;31m 
+╠══[Author                   • \33[1;38mMR-EMON ]\33[1;38m     ║\033[1;31m 
 ╠══[Facebook                 • Arian Ahamed Emon ]   ║  \033[1;97m  
 ╠══[Github                   • \33[1;38Md Remon Sheikh ]   ║\33[1;34m   
 ╠══[Whatsapp                 • 0132812XXXX ]  ║\33[1;35m 
