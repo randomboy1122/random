@@ -191,7 +191,7 @@ def banner():
 \033[0;94m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗\033[1;33m 
 ╠══[Author                   • \33[1;38mMR-EMON ]\33[1;38m     ║\033[1;31m 
 ╠══[Facebook                 • Arian Ahamed Emon ]   ║  \033[1;97m  
-╠══[Github                   • \33[1;38MR-EMON]   ║\33[1;34m   
+╠══[Github                   • \33[1;38 [ MR-EMON]   ║\33[1;34m   
 ╠══[Whatsapp                 • 0132812XXXX ]  ║\33[1;35m 
 ╠══[TOOLS                    • Paid  ]        ║ \33[1;32m   
 ╠══[VERSION                  • 11.3 ]          ║\033[1;35m 
