@@ -199,7 +199,8 @@ def banner():
 
 def login():
 	banner()
-	TUTULj('\033[1;96m[1] File Cloning\n\x1b[1;92m[2] Contact With Admin\n\033[0;97m[0] \033[0;91mEXIT ')
+	TUTULj('\033[1;96m[1] File Cloning\n\x1b[1;92m
+ [2]Contact With Admin\n\033[0;97m[0] \033[0;91mEXIT ')
 	TUTULj('\033[0;97m===============================================')
 	TUTUL= input('\x1b[1;92m[+] CHOOSE: ');time.sleep(0.01)
 	if TUTUL in ['m']:
