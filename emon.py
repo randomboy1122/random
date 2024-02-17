@@ -193,8 +193,8 @@ def banner():
 ╠══[Facebook                 • Arian Ahamed Emon ]   ║  \033[1;97m  
 ╠══[Github                   • \33[1;38 [ MR-EMON]   ║\33[1;34m   
 ╠══[Whatsapp                 • 0132812XXXX ]  ║\33[1;35m 
-╠══[TOOLS                    • Paid  ]        ║ \33[1;32m   
-╠══[VERSION                  • 11.3 ]          ║\033[1;35m 
+╠══[TOOLS                    • Free ]        ║ \33[1;32m   
+╠══[VERSION                  • 1.00 ]          ║\033[1;35m 
 \033[0;94m╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝\033[1;31m""")
 
 def login():
